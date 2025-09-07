@@ -1,1 +1,7 @@
-streamlit
+streamlit# Core app
+streamlit>=1.29,<2.0
+SQLAlchemy>=2.0,<3.0
+pandas>=2.2,<3.0
+
+# Database driver for PostgreSQL (used by db_url like postgresql+psycopg2://...)
+psycopg2-binary>=2.9,<3.0
