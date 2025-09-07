@@ -1,4 +1,4 @@
-streamlit# Core app
+# Core app
 streamlit>=1.29,<2.0
 SQLAlchemy>=2.0,<3.0
 pandas>=2.2,<3.0
